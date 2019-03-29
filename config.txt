@@ -1,0 +1,6 @@
+owner=460017803030953986
+prefix=-
+game=Nigga Music Only, by JustMido
+stayinchannel=true
+songinstatus=false
+NTYxMjM1NzQ5NjEwMTkyODk3.D3_k8w.ZS5LxA-UQW5HPoMgfxjFKBccdtI
